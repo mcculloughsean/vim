@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/vagrant/mesos-go/src'
+let g:netrw_dirhist_2='/home/vagrant/mesos-go/src/code.google.com'
+let g:netrw_dirhist_3='/home/vagrant/mesos-go'
+let g:netrw_dirhist_4='/home/vagrant/mesos-go/src'
+let g:netrw_dirhist_5='/home/vagrant/mesos-go/src/mesos.apache.org'
+let g:netrw_dirhist_6='/home/vagrant/mesos-go/src/mesos.apache.org/example_framework'
