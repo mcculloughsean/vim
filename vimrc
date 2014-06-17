@@ -201,5 +201,5 @@ function! SelectaIdentifier()
 endfunction
 nnoremap <c-g> :call SelectaIdentifier()<cr>
 
-map <C-n> :NERDTreeToggle<CR>
+map <leader>n :NERDTreeToggle<CR>
 
